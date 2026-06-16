@@ -295,5 +295,5 @@ MIT License — free to use, modify, and distribute.
 ---
 
 ## 👤 Author
-**Achyuth Sai** · B.Tech CSE (Data Science) · SRM Institute of Science and Technology, Tiruchirapalli  
+**Achyuth Sai** · B.Tech CSE-CYBER SECURITY· SRM Institute of Science and Technology, Tiruchirapalli  
 GitHub: [@achyuthsai321-svg](https://github.com/achyuthsai321-svg)
